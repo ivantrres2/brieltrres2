@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 - Computer Engineering Student at University of Puerto Rico at Mayaguez
-- UPRM Esports Chief Technologies Officer
 - Web Developer
 - Freelance Graphic Designer
+
+Ask me anything!
 
 ### Currently programming in...
 
