@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-- Computer Engineering Student at University of Puerto Rico at Mayaguez
-- Web Developer
-- Freelance Graphic Designer
+
+A little about me:
+
+- Computer Engineering Student at University of Puerto Rico at Mayaguez 🖥️
+- Formula SAE Data Acquisition Engineer 📈
+- Web Developer 🌐
+- Freelance Graphic Designer 🎨
+
 
 Ask me anything!
 
@@ -10,6 +15,7 @@ Ask me anything!
 
 |  |
 |:-----------|
+|C/C++|
 |HTML|
 |CSS|
 |JavaScript|
